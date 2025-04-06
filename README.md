@@ -1,2 +1,2 @@
 # python_programs
-Here you can find all my python programs
+In this repository, I have added my codes, which I practiced during my python learning journey.
