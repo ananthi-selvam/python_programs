@@ -1,46 +1,10 @@
-# Python Programs
-In this repository, I have added python programs, which I practiced during my python learning journey.
+# Python Learning Journey
 
-# 1.Guess the Number Game
+Welcome to my **Python Learning Journey** repository! This is where I upload various Python programs and projects as I learn and explore the language.
 
-Welcome to the **Guess the Number Game**! This is a simple Python program where you try to guess a secret number chosen by the computer.
+## About This Repository
 
-## How to Play
+This repository contains Python programs that I have written while learning Python. Each program is designed to help me understand different concepts and features of the language.
 
-1. **Enter your name** when prompted.
-2. The game will welcome you and ask you to guess a number between 1 and 20.
-3. You have **5 attempts** to guess the correct number.
-4. After each guess, the game will tell you if your guess is too high or too low.
-5. If you guess the number correctly within 5 attempts, you win!
-
-## Example
-
-```python
-Your Name: Alice
-Welcome to the guessing game Alice
-Guess the number between 1 to 20
-Take a Guess 
-10
-Your guess is too high!!
-Take a Guess 
-5
-Your guess is too low!!!
-Take a Guess 
-7
-That was right 7
-You have identified the secret number in 3 guesses
-```
-
-## Requirements
-- Python 3.x
-
-## Learnings
-- random function
-- Getting user input()
-- For loop
-- Conditional statements
-- print() function
-- String concatenation
-  
 ## Author
-- Ananthi Selvam
+Ananthi Selvam
